@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Header from './Components/Header';
-import Banner from './Components/Banner';
-import Item from './Components/Item';
-import Footer from './Components/Footer';
-import Body from './Components/Body';
+import Header from './Components/BaiTapThucHanhLayout/Header';
+import Banner from './Components/BaiTapThucHanhLayout/Banner';
+import Item from './Components/BaiTapThucHanhLayout/Item';
+import Footer from './Components/BaiTapThucHanhLayout/Footer';
+import Body from './Components/BaiTapThucHanhLayout/Body';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
